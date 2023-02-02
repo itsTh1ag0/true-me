@@ -6,13 +6,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thiagosilvagusmao/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
   </a>
   <a href="https://m.youtube.com/channel/UCh0iPr7XgGVcOrzzktAXEbQ#menu">
-  <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/-YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://m.facebook.com/100010878546442/">
-  <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <img src="https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
@@ -38,8 +38,8 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :bulb: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox_with_mail: How to reach me: <a href="https://wa.me/+5511983961209">
-  <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=social" alt="WhatsApp Badge"/></a>
 <a href="mailto:thiagosilvagusmao@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-white?logo=email&logoColor=gray&style=for-the-badge" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/-Email-white?logo=email&logoColor=black&style=social" alt="Email Badge"/>
 </a>
   
