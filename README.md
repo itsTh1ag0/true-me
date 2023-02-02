@@ -16,5 +16,8 @@
   </a>
 </div>
 
- <strong><div align="center">itsTh1ag0.speaks("Hi there planet earth...🖖	")</div></strong>
- 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=itsTh1ag0&style=flat-square&color=blue" alt=""/>
+</div>
+
+<strong><div align="center">itsTh1ag0.speaks("Hi there planet earth...🖖)</div></strong>
