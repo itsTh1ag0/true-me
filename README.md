@@ -21,3 +21,22 @@
 </div>
 
 <strong><div align="center">itsTh1ag0.speaks("Hi there planet earth...🖖)</div></strong>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻..A little about me..:selfie:
+I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Analyst</strong> from Brazil! :brazil:
+
+- :computer: 12+ years working on B2C-B2B, CRM-ERP, SMB-VPE, SaaS-DaaS, JS-JSON and more.
+
+- :telescope: Exploring Technical Content Writing.
+
+- :bulb: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox_with_mail: How to reach me:   <a href="https://wa.me/+5511983961209">
+  <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
+  </a>
