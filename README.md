@@ -28,7 +28,7 @@
 
 ---
 
-### 👨‍💻..A little about me..:selfie:
+### 👨‍💻...A little about me...:selfie:
 I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Analyst</strong> from Brazil! :brazil:
 
 - :computer: 12+ years working on B2C-B2B, CRM-ERP, SMB-VPE, SaaS-DaaS, JS-JSON and more.
@@ -44,7 +44,7 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ---
 
-### :hammer_and_wrench: Some of the tools that I've been using:
+### :hammer_and_wrench:..Some of the tools that I've been using..:open_file_folder:
 <div>
   <img src"https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
@@ -61,3 +61,8 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :abacus:.And my GHUB data stats.:bar_chart:
+
