@@ -65,4 +65,6 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :abacus:.And my GHUB data stats.:bar_chart:
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsTh1ag0&theme=tokyonight_duo&border_radius=8.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsTh1ag0&theme=radical=true)
+//* Version 1.0 *//
