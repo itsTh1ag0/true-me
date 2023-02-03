@@ -38,8 +38,8 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :bulb: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <div>- :mailbox_with_mail: How to reach me: <a href="https://wa.me/+5511983961209">
-  <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=flat-square" alt="WhatsApp Badge"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=plastic" alt="WhatsApp Badge"/></a>
 <a href="mailto:thiagosilvagusmao@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-white?logo=email&logoColor=black&style=flat-square" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/-Email-white?logo=email&logoColor=black&style=plastic" alt="Email Badge"/>
 </a></div>
   
