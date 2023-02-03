@@ -33,9 +33,9 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :computer: 12+ years working on B2C-B2B, CRM-ERP, SMB-VPE, SaaS-DaaS, JS-JSON and more.
 
-- :telescope: Exploring Technical Content Writing.
+- :telescope: Helping to develop, explore and enhance technical solutions through /app|web\ and native platforms.
 
-- :bulb: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :bulb: Thrilled for experimenting, implementing and discovering new technologies, ideas and innovations.
 
 - <div>:mailbox_with_mail: How to reach me:<a href="https://wa.me/+5511983961209">
   <img src="https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&style=plastic" alt="WhatsApp Badge"/></a><a href="mailto:thiagosilvagusmao@hotmail.com">
@@ -58,7 +58,6 @@ I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
