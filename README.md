@@ -31,7 +31,7 @@
 ### 👨‍💻...A little about me...:selfie:
 I am a <strong>#Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Analyst</strong> from Brazil! :brazil:
 
-- :computer: 12+ years working on B2C-B2B, CRM-ERP, SMB-VPE, SaaS-DaaS, JS-JSON and more.
+- :computer: 12+ years working with JS-JSON-SQL on B2C-B2B, CRM-ERP, SMB-VPE, SaaS-DaaS and more.
 
 - :telescope: Helping to develop, explore and enhance technical solutions through /app|web\ and native platforms.
 
